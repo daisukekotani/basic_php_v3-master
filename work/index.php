@@ -1,3 +1,10 @@
+<?php
+
+$title = '';
+include('_header.php');
+
+?>
+
 
     <section>
       <img src="img/work1.png" width="400" height="260" alt="勇者ゲームの紹介画像">
@@ -20,4 +27,7 @@
       <a href="memory.php">もっとみる</a>
     </section>
 
-  
+<?php
+
+include('_footer.php');
+
